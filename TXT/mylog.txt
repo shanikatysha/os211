@@ -6,4 +6,9 @@ ZCZC W00 10 L03 GitHub related
 ZCZC W00 5 L01 SCELE related (join discord, check forums)
 ZCZC W00 5 L04 GitHub Pages: settings
 ZCZC W00 90 L05 GSGS related
+ZCZC W00 100 L02 ZOOM related
 ZCZC W00 20 L04 GitHub Pages: creating page
+ZCZC W00 30 L06 Reading References (about OS for beginners)
+ZCZC W00 10 L22 YouTube: OS brief explanation
+ZCZC W00 30 L01 SCELE related : checking next week's materials
+ZCZC W00 20 L24 Udacity: study, asking tips on how to succeed in this class
