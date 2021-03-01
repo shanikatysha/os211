@@ -1,0 +1,18 @@
+---
+permalink: /W01/
+---
+
+# Top 10 List of _Week 01_
+
+1. [**BRP Mata Kuliah Sistem Operasi**](https://github.com/UI-FASILKOM-OS/SistemOperasi/blob/master/Slides/os00.pdf)<br>
+testestes
+2. [**Belajar Markdown**](https://www.markdowntutorial.com/)<br>
+3. [**Creating a GitHub Page**](https://docs.github.com/en/github/working-with-github-pages/creating-a-github-pages-site)<br>
+4. [**Daisy Bell - Bicycle Built for Two**](https://www.historyofinformation.com/detail.php?entryid=4445#:~:text=A%20recording%20made%20at%20Bell,programmed%20by%20physicist%20John%20L.)<br>
+6. [**What is scripting?**](https://skillcrush.com/blog/coding-vs-scripting/)<br>
+6. [**Intro to OS**](https://medium.com/computing-technology-with-it-fundamentals/operating-system-its-functions-and-characteristics-c0946e4215c6)<br>
+![OS](https://miro.medium.com/max/720/1*rk1o0WQWtR1tEGcsEMIpEQ.png)<br>
+7. [**Creating a LOG each week**](https://github.com/shanikatysha/os211/blob/master/TXT/mylog.txt)<br>
+8. [**The Evolution of Operating System**](https://www.notesjam.com/2017/09/evolution-of-operating-system.html)<br>
+9. [**Maskable vs Non-Maskable Interrupts**](https://waliamrinal.medium.com/what-are-interrupts-in-computer-organisation-e23a223b3f75)<br>
+10. [**Why is an Operating System Necessary for a Computer**](https://www.geeksforgeeks.org/need-and-functions-of-operating-systems/)<br>
