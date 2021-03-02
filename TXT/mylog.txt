@@ -12,3 +12,6 @@ ZCZC W00 30 L06 Reading References (about OS for beginners)
 ZCZC W00 10 L22 YouTube: OS brief explanation
 ZCZC W00 30 L01 SCELE related : checking next week's materials
 ZCZC W00 20 L24 Udacity: study, asking tips on how to succeed in this class
+ZCZC W01 90 L02 ZOOM related
+ZCZC W01 60 L05 GSGS related
+ZCZC W01 60 L06 Reading References : for weekly logs
