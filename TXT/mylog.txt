@@ -15,3 +15,5 @@ ZCZC W00 20 L24 Udacity: study, asking tips on how to succeed in this class
 ZCZC W01 90 L02 ZOOM related
 ZCZC W01 60 L05 GSGS related
 ZCZC W01 60 L06 Reading References : for weekly logs
+ZCZC W01 180 L21 VirtualBox: install GNU/Linux, etc.
+ZCZC W01 60 L11 Assignment #1
