@@ -19,3 +19,10 @@ ZCZC W01 180 L21 VirtualBox: install GNU/Linux, etc.
 ZCZC W01 60 L11 Assignment #1
 ZCZC W01 30 L11 Assignment #1 : continuing assignment
 ZCZC W02 120 L05 GSGS related : doing top 10 list
+ZCZC W02 10 L12 Assignment #2
+ZCZC W02 10 L13 Assignment #3
+ZCZC W02 10 L14 Assignment #4
+ZCZC W02 15 L15 Assignment #5
+ZCZC W02 5 L17 Assignment #7
+ZCZC W02 5 L18 Assignment #8
+ZCZC W02 10 L19 Assignment #9
