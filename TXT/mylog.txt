@@ -29,3 +29,6 @@ ZCZC W02 10 L19 Assignment #9
 ZCZC W03 120 L15 Assignment #5 : Top 10 list
 ZCZC W03 10 L13 Assignment #3
 ZCZC W03 30 L17 Assignment #7 : TARBALL: myW03.tar.bz2.asc
+ZCZC W03 10 L04 GitHub related : checking settings
+ZCZC W03 30 L07 Demo related : trying demo w03
+ZCZC W03 20 L21 VirtualBox: updating packages, and github repository
