@@ -32,3 +32,6 @@ ZCZC W03 30 L17 Assignment #7 : TARBALL: myW03.tar.bz2.asc
 ZCZC W03 10 L04 GitHub related : checking settings
 ZCZC W03 30 L07 Demo related : trying demo w03
 ZCZC W03 20 L21 VirtualBox: updating packages, and github repository
+ZCZC W03 20 L07 Demo related : trying demo w02
+ZCZC W03 10 L09 AsDos : asking, etc.
+ZCZC W03 30 L26 Movie : watching documentary
