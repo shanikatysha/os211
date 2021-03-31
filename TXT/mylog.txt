@@ -42,3 +42,7 @@ ZCZC W04 20 L16 Assignment #6
 ZCZC W04 20 L12 Assignment #2 : reviewing demo week 04
 ZCZC W04 10 L08 Trying something : making aliases
 ZCZC W04 10 L22 YouTube : study
+ZCZC W05 60 L13 Assignment #3
+ZCZC W05 150 L05 GSGS related
+ZCZC W05 20 L12 Assignment #2
+ZCZC W05 5 L15 Assignment #5
