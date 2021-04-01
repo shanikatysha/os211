@@ -46,3 +46,8 @@ ZCZC W05 60 L13 Assignment #3
 ZCZC W05 150 L05 GSGS related
 ZCZC W05 20 L12 Assignment #2
 ZCZC W05 5 L15 Assignment #5
+ZCZC W05 30 L14 Assignment #4
+ZCZC W05 15 L10 Assignment (General) : setting top
+ZCZC W05 30 L10 Assignment (General) : finding minimum RAM size
+ZCZC W05 10 L23 Discord: discussion, etc. 
+ZCZC W05 5 L05 GSGS related : commands on vi editor
