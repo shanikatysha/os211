@@ -61,3 +61,5 @@ ZCZC W06 20 L23 Discord: discussion, etc.
 ZCZC W07 100 L02 Zoom related
 ZCZC W07 20 L05 GSGS related : making script for quiz
 ZCZC W07 120 L13 Assignment #3
+ZCZC W07 20 L23 Discord: discussion, etc.
+ZCZC W07 45 L14 Assignment #4
