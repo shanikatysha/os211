@@ -63,3 +63,12 @@ ZCZC W07 20 L05 GSGS related : making script for quiz
 ZCZC W07 120 L13 Assignment #3
 ZCZC W07 20 L23 Discord: discussion, etc.
 ZCZC W07 45 L14 Assignment #4
+ZCZC W08 12 L23 Discord: discussion, etc.
+ZCZC W08 20 L05 GSGS related
+ZCZC W08 100 L02 ZOOM related
+ZCZC W08 120 L12 Assignment #2
+ZCZC W08 30 L21 VirtualBox: updating packages and exporting backup
+ZCZC W08 30 L13 Assignment #3 : doing preparation
+ZCZC W08 120 L13 Assignment #3 : finishing LFS
+ZCZC W08 32 L23 Discord: resolving issues
+ZCZC W08 25 L05 GSGS related: lfs

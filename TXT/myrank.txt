@@ -18,3 +18,6 @@ ZCZC W05 stevensim226
 ZCZC W06 sunnysani
 ZCZC W06 stevensim226
 ZCZC W06 tsanaativa
+ZCZC W07 SinusCosinusTangen
+ZCZC W07 valentinohp
+ZCZC W07 tsanaativa
