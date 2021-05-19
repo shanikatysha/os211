@@ -72,3 +72,6 @@ ZCZC W08 30 L13 Assignment #3 : doing preparation
 ZCZC W08 120 L13 Assignment #3 : finishing LFS
 ZCZC W08 32 L23 Discord: resolving issues
 ZCZC W08 25 L05 GSGS related: lfs
+ZCZC W09 100 L02 ZOOM related
+ZCZC W09 120 L13 Assignment #3 : doing top 10 list
+ZCZC W09 20 L05 GSGS related
