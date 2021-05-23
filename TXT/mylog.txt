@@ -75,3 +75,7 @@ ZCZC W08 25 L05 GSGS related: lfs
 ZCZC W09 100 L02 ZOOM related
 ZCZC W09 120 L13 Assignment #3 : doing top 10 list
 ZCZC W09 20 L05 GSGS related
+ZCZC W09 120 L13 Assignment #3 : doing chapter 5
+ZCZC W09 120 L13 Assignment #3 : doing chapter 6
+ZCZC W09 125 L13 Assignment #3 : doing chapter 7
+ZCZC W09 15 L05 GSGS related 
